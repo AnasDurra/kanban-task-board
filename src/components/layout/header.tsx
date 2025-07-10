@@ -124,12 +124,12 @@ const Header = () => {
                 })}
               </nav>
 
-              <div className="mt-4 pt-4 border-t border-slate-200">
+              {/* <div className="mt-4 pt-4 border-t border-slate-200">
                 <button className="flex items-center gap-3 px-4 py-3 rounded-lg text-sm font-medium text-slate-600 hover:text-slate-900 hover:bg-slate-50 transition-all duration-200 w-full">
                   <User className="h-4 w-4" />
                   Account
                 </button>
-              </div>
+              </div> */}
             </div>
           </div>
         </>
