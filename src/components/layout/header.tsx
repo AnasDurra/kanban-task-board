@@ -22,7 +22,7 @@ const Header = () => {
   return (
     <>
       <header className="sticky top-0 z-50 w-full border-b border-slate-200/60 bg-white/80 backdrop-blur-xl supports-[backdrop-filter]:bg-white/60">
-        <div className="container mx-auto px-6">
+        <div className=" px-7">
           <div className="flex h-16 items-center justify-between">
             <div className="flex items-center gap-3">
               <div className="relative">
